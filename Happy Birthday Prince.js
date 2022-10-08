@@ -1,4 +1,5 @@
 window.onload = () =>{
+     alert("Touch Anywhere To Play The Music");
   
     let text = document.getElementsByClassName("wish")[0];
     
